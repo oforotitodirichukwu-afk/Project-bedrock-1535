@@ -17,3 +17,7 @@ output "vpc_id" {
 output "assets_bucket_name" {
   value = aws_s3_bucket.assets.bucket
 }
+
+output "vpc_name" {
+  value = module.vpc.name
+}

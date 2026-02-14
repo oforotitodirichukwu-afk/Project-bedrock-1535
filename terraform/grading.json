@@ -23,5 +23,10 @@
     "sensitive": false,
     "type": "string",
     "value": "vpc-073fd349d03f575f0"
+  },
+  "vpc_name": {
+    "sensitive": false,
+    "type": "string",
+    "value": "project-bedrock-vpc"
   }
 }

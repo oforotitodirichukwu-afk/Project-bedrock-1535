@@ -11,12 +11,3 @@ resource "aws_iam_access_key" "dev_key" {
   user = aws_iam_user.dev_view.name
 }
 
-output "dev_access_key" {
-  value     = aws_iam_access_key.dev_key.id
-  sensitive = true
-}
-
-output "dev_secret_key" {
-  value     = aws_iam_access_key.dev_key.secret
-  sensitive = true
-}
