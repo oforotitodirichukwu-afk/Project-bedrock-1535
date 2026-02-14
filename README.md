@@ -213,4 +213,5 @@ Production-Grade DevOps Practices
 
  OFOR OTITODIRICHUKWU-1535
 Cloud DevOps Engineer
-AltSchool Africa – Capstone Project
+
+AltSchool Africa – Capstone Project-Baraka-2024/2025
